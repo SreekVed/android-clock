@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sreekar\'s Clock</string>
+    <string name="switch24">Switch to 24 Hour Format</string>
+    <string name="switch12">Switch to 12 Hour Format</string>
+</resources>
